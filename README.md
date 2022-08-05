@@ -1,1 +1,3 @@
 # dbs_devops_6
+
+hello dbs welcome to batch 6 !.....
